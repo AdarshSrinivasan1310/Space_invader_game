@@ -1,2 +1,2 @@
 # Space_invader_game
-This is a space invader game developed in python using turtle 
+This is a classic Space Invaders game built using Python's turtle module. Players can move left or right using the arrow keys or A/D keys and fire bullets with the spacebar or 0 key. The game features enemy movement, score tracking, and a game over condition when enemies reach the bottom. Ensure player.gif, invader.gif, and space_invaders_background.gif are in the same folder as the script before running it with python space_invaders.py. Future improvements could include smoother enemy movement, power-ups, and enhanced graphics.
